@@ -7,11 +7,16 @@ body {
 
 header {
   text-align: center;
-}
+  }
 
 #heading {
   color: #D8F3DC;
   background-color: #1B4332;
+}
+
+#TopSection{
+    font-family: fantasy;
+    font-weight: lighter;
 }
 
 #sidebar {
@@ -19,25 +24,44 @@ header {
   background-color: #D8F3DC; 
 }
 
+#Menu {
+  font-family: fantasy;
+  font-weight: lighter;
+}
+
 main {
     color: #081C15;
     background-color: #D8F3DC; 
 }
+
+h2 {
+  font-family: fantasy;
+  font-weight: lighter;
+}
+
 #Education {
   background-color: #B7E4C7;
 }
 
+
 #jobs {
   background-color: #74C69D;
 }
+
 
 #skill {
   color: #D8F3DC;
   background-color: #2D6A4F;
 }
 
+
 footer {
   color:  #D8F3DC;
   background-color: #1B4332;
   text-align: center;
+}
+
+#ContactDetails{
+  font-family: fantasy;
+  font-weight: lighter;
 }
