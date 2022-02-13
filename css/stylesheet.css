@@ -37,6 +37,7 @@ main {
 h2 {
   font-family: fantasy;
   font-weight: lighter;
+  text-align: center;
 }
 
 #Education {
@@ -53,7 +54,6 @@ h2 {
   color: #D8F3DC;
   background-color: #2D6A4F;
 }
-
 
 footer {
   color:  #D8F3DC;
