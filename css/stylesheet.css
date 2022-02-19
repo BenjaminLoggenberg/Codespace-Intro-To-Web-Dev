@@ -2,6 +2,15 @@ body {
   font-family: sans-serif;
   font-size:110%;
   background-color: #b7e4c7 !important;
+  margin: 40px;
+  padding: 20px;
+  border-style: solid;
+  border-color:#1B4332;
+}
+
+main {
+  margin-left: 150px;
+  margin-right: 300px;
 }
 
 #pp {
@@ -9,6 +18,7 @@ body {
   border-style: solid;
   border-color: #d8f3dc;
 border-radius: 1000px 1000px 1000px 1000px;
+border-width: 5px;
 }
 
 h1 {
@@ -25,7 +35,9 @@ h2 {
   border-left-width: 3px;  
   border-right-width: 3px;
   border-color: #081c15;
-  border-radius: 20px 20px 20px 20px;    
+  border-radius: 20px 20px 20px 20px;   
+  padding: 15px;
+  margin: 10px; 
 }
 
 a {
@@ -40,10 +52,10 @@ a:hover {
   color:gray;
 }
 
- 
-
 header {
   text-align: center;
+  padding: 30px;
+  margin: 10px;
   }
 
 #heading {
@@ -56,9 +68,12 @@ header {
     font-weight: lighter;
 }
 
-#sidebar {
-  color: #081C15;
-  background-color: #D8F3DC; 
+nav {
+  color: #D8F3DC;
+  background-color: #2D6A4F; 
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
 #Menu {
@@ -78,18 +93,30 @@ h2 {
 }
 
 #Education {
-  background-color: #B7E4C7;
+  background-color: #74C69D;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
+#content {
+  
+}
 
 #jobs {
   background-color: #74C69D;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
 
 #skill {
   color: #D8F3DC;
   background-color: #2D6A4F;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
 li:nth-of-type(2n) {
@@ -100,7 +127,7 @@ footer {
   color:  #D8F3DC;
   background-color: #081c15;
   text-align: center;
-}
+  padding: 5px;
 
 #ContactDetails{
   font-family: fantasy;
