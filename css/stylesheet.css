@@ -4,11 +4,28 @@ body {
   background-color: #b7e4c7 !important;
 }
 
-h2 {
-  border-style: dashed;
+#pp {
+  margin-top: 20px;
+  border-style: solid;
+  border-color: #d8f3dc;
+border-radius: 1000px 1000px 1000px 1000px;
+}
+
+h1 {
+  border-style: solid;
   border-color: #081c15;
 margin: 20px;
 padding: 40px;
+}
+
+h2 {
+  border-style: dashed;
+  border-top-width: 4px;
+  border-bottom-width: 4px;
+  border-left-width: 3px;  
+  border-right-width: 3px;
+  border-color: #081c15;
+  border-radius: 20px 20px 20px 20px;    
 }
 
 a {
