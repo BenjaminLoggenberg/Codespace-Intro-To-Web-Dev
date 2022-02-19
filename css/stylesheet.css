@@ -16,6 +16,7 @@ a:hover {
   color:gray;
 }
 
+[href*="https"]{color:blue;} 
 
 header {
   text-align: center;
