@@ -70,7 +70,7 @@ header {
 
 nav {
   color: #D8F3DC;
-  background-color: #2D6A4F; 
+  background-color: #3e8a6a; 
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 20px;
@@ -79,6 +79,7 @@ nav {
 #Menu {
   font-family: fantasy;
   font-weight: lighter;
+
 }
 
 main {
@@ -99,8 +100,9 @@ h2 {
   padding: 20px;
 }
 
-#content {
-  
+.rightsidelogos{
+  float: right;
+  margin-top: 50px;
 }
 
 #jobs {
@@ -113,7 +115,7 @@ h2 {
 
 #skill {
   color: #D8F3DC;
-  background-color: #2D6A4F;
+  background-color: #3e8a6a;
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 20px;
