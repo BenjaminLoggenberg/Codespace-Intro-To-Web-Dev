@@ -128,6 +128,25 @@ footer {
   background-color: #081c15;
   text-align: center;
   padding: 5px;
+}
+
+.iconsleft {
+  float: left; 
+margin: 0 10px 0 0;
+color:  #D8F3DC;
+  font-family: fantasy;
+  font-weight: lighter;
+}
+}
+
+
+
+.Reachme {
+  color:  #D8F3DC;
+  font-family: fantasy;
+  font-weight: lighter;
+}
+
 
 #ContactDetails{
   font-family: fantasy;
