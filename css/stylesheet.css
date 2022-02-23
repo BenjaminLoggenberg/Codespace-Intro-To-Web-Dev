@@ -8,6 +8,10 @@ body {
   border-color:#1B4332;
 }
 
+#educationcontent {
+  display: flex;
+}
+
 main {
   margin-left: 150px;
   margin-right: 300px;
@@ -17,7 +21,8 @@ main {
   margin-top: 20px;
   border-style: solid;
   border-color: #d8f3dc;
-border-radius: 1000px 1000px 1000px 1000px;
+border-radius: 50%;
+/*border=radius:1000px 1000px 1000px 1000px*/
 border-width: 5px;
 }
 
@@ -139,8 +144,6 @@ color:  #D8F3DC;
   font-family: fantasy;
   font-weight: lighter;
 }
-}
-
 
 
 .Reachme {
