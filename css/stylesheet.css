@@ -6,15 +6,14 @@ body {
   padding: 20px;
   border-style: solid;
   border-color:#1B4332;
-}
-
-#educationcontent {
   display: flex;
+ flex-direction: column;
 }
 
 main {
   margin-left: 150px;
   margin-right: 300px;
+
 }
 
 #pp {
@@ -143,6 +142,7 @@ margin: 0 10px 0 0;
 color:  #D8F3DC;
   font-family: fantasy;
   font-weight: lighter;
+  justify-content: space-evenly;
 }
 
 
